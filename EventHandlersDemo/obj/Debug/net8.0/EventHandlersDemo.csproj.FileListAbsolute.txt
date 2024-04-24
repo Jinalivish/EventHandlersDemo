@@ -1,0 +1,14 @@
+E:\Humber_college\C#\EventHandlersDemo\EventHandlersDemo\bin\Debug\net8.0\EventHandlersDemo.exe
+E:\Humber_college\C#\EventHandlersDemo\EventHandlersDemo\bin\Debug\net8.0\EventHandlersDemo.deps.json
+E:\Humber_college\C#\EventHandlersDemo\EventHandlersDemo\bin\Debug\net8.0\EventHandlersDemo.runtimeconfig.json
+E:\Humber_college\C#\EventHandlersDemo\EventHandlersDemo\bin\Debug\net8.0\EventHandlersDemo.dll
+E:\Humber_college\C#\EventHandlersDemo\EventHandlersDemo\bin\Debug\net8.0\EventHandlersDemo.pdb
+E:\Humber_college\C#\EventHandlersDemo\EventHandlersDemo\obj\Debug\net8.0\EventHandlersDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Humber_college\C#\EventHandlersDemo\EventHandlersDemo\obj\Debug\net8.0\EventHandlersDemo.AssemblyInfoInputs.cache
+E:\Humber_college\C#\EventHandlersDemo\EventHandlersDemo\obj\Debug\net8.0\EventHandlersDemo.AssemblyInfo.cs
+E:\Humber_college\C#\EventHandlersDemo\EventHandlersDemo\obj\Debug\net8.0\EventHandlersDemo.csproj.CoreCompileInputs.cache
+E:\Humber_college\C#\EventHandlersDemo\EventHandlersDemo\obj\Debug\net8.0\EventHandlersDemo.dll
+E:\Humber_college\C#\EventHandlersDemo\EventHandlersDemo\obj\Debug\net8.0\refint\EventHandlersDemo.dll
+E:\Humber_college\C#\EventHandlersDemo\EventHandlersDemo\obj\Debug\net8.0\EventHandlersDemo.pdb
+E:\Humber_college\C#\EventHandlersDemo\EventHandlersDemo\obj\Debug\net8.0\EventHandlersDemo.genruntimeconfig.cache
+E:\Humber_college\C#\EventHandlersDemo\EventHandlersDemo\obj\Debug\net8.0\ref\EventHandlersDemo.dll
